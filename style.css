@@ -9,22 +9,41 @@
 
 }
 
+
+body{
+    
+    
+    overflow-x: hidden;
+    background-color: lightgray;
+}
+
 .lunu{
     list-style: none;
     z-index: 10;
-    margin-top:0;
+    margin:0;
     top:0;
     position: sticky;
     padding:25px;
-    background-color: red;
     text-align: center;
     width: 100%;
 }
 
+
+
+.lunu a{
+    text-decoration:none;
+    color:#d50a0a;
+  
+   }
+   .lunu a:hover{
+  border-bottom: 2px solid rgb(23, 1, 1);
+   
+  }
+
+
 .link{
  
     float: left;
-    padding-top: 5px;
     padding-left: 150px;
     padding-right: 10px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -36,12 +55,169 @@
 
 #text{
     position: absolute;
-    top:35%;
-    left:35%;
+    top:40%;
+    left:40%;
     font-size: 30px;
     transform: translate(-50% -50%);
     text-shadow: 10px 10px 10px black ;
     color:orange;
 }
 
-   
+.imgg img{
+
+    height: 100px;
+    width:100px;
+
+
+}
+
+
+#India h1{
+    text-align: center;
+    font-size: 40px;
+     color:rgb(47, 58, 107);
+    font-family:cursive;
+    
+}
+
+#India p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+#India:hover{
+    background-color: forestgreen;
+}
+
+
+
+#China h1{
+    text-align: center;
+    font-size: 40px;
+     color:rgb(47, 58, 107);
+    font-family:cursive;
+    
+}
+
+#China p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+#China:hover{
+    background-color: forestgreen;
+}
+
+
+#Italy h1{
+    text-align: center;
+    font-size: 40px;
+     color:rgb(47, 58, 107);
+    font-family:cursive;
+    
+}
+
+#Italy p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+#Italy:hover{
+    background-color: forestgreen;
+}
+
+
+
+
+#China h1{
+    text-align: center;
+    font-size: 40px;
+     color:rgb(47, 58, 107);
+    font-family:cursive;
+    
+}
+
+#China p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+#China:hover{
+    background-color: forestgreen;
+}
+
+
+
+
+#Mexico h1{
+    text-align: center;
+    font-size: 40px;
+     color:rgb(47, 58, 107);
+    font-family:cursive;
+    
+}
+
+#Mexico p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+#Mexico:hover{
+    background-color: forestgreen;
+}
+
+
+#Japan h1{
+    text-align: center;
+    font-size: 40px;
+     color:rgb(47, 58, 107);
+    font-family:cursive;
+    
+}
+
+#Japan p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+#Japan:hover{
+    background-color: forestgreen;
+}
+
+
+
+.indiaa{
+    width: 100%;
+    height: 50%;
+
+}
+
+
+#bannner{
+    text-align: center;
+    margin-top: -22%;
+}
+
+
+#texxt{
+    font-size: 40px;
+    font-family: "Itim", cursive;
+    color: blue;
+
+}
+
+
+
+.indiafood{
+
+    height: 20%;
+    width: 100%;
+
+    
+}
