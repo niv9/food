@@ -216,8 +216,62 @@ body{
 
 .indiafood{
 
-    height: 20%;
+  margin-top: 12%;
     width: 100%;
+    background-color: pink;
 
     
 }
+
+.imageee img{
+
+    height:40%;
+    width:35%;
+}
+
+.main{
+    display:flex;
+    flex-direction:row;
+    margin: 10px;
+    border-radius: 100px;
+}
+
+
+
+
+
+.video iframe{
+    border-radius: 10000000000000px;
+}
+
+
+
+
+.recipe p{
+    font-size: 21px;
+
+
+}
+
+
+
+
+.indiafood h1{
+    font-size:50px;
+    color:green;
+    font-family: "Itim", cursive;
+    text-decoration: underline;
+
+}
+
+.imageee img:hover{
+
+    height:45%;
+    width:40%;
+}
+
+
+
+
+
+                                                                                                                                                                                                                
