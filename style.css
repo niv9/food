@@ -13,6 +13,7 @@
 #bannerr{
     text-align: center;
     margin-top: -22%;
+    height: 50%;
 
 }
 
@@ -236,7 +237,7 @@ body{
 
 .imageee img{
 
-    height:40%;
+    height:50%;
     width:35%;
 }
 
@@ -275,14 +276,21 @@ body{
 
 }
 
-.imageee img:hover{
 
-    height:45%;
-    width:40%;
+
+
+           
+#c_bannerr{
+    text-align: center;
+    margin-top: -22%;
+    height: 50%;
+
+}   
+
+#c_texxt{
+    font-size: 40px;
+    font-family: "Itim", cursive;
+    color: black;
+    margin-left: -20%;
+
 }
-
-
-
-
-
-                                                                                                                                                                                                                
