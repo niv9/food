@@ -305,4 +305,10 @@ button{
    width: 100%;
    margin:0;
    left:0;
+ 
+}
+.contact a{
+    text-decoration: none;
+    color:black;
+
 }
